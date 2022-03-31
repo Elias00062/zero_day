@@ -1,1 +1,2 @@
- the kernel name
+[200~the kernel name
+
